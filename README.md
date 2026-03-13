@@ -3,7 +3,7 @@
 A simple **browser-based OCR application** built using **Tesseract.js, HTML, CSS, and JavaScript**.  
 The project is lightweight and runs entirely **on the client side**, meaning no server or backend is required.
 
----
+-----------------------
 
 ## Features
 
