@@ -1,22 +1,34 @@
-# ocr
-Simple browser-based OCR application using Tesseract.js, HTML, CSS, and JavaScript. The project structure is lightweight and works entirely on the client side.  
+# Browser OCR (Tesseract.js)
 
-**Features**
-Image-to-Text: Extract text from common image formats (JPG, PNG).
+A simple **browser-based OCR application** built using **Tesseract.js, HTML, CSS, and JavaScript**.  
+The project is lightweight and runs entirely **on the client side**, meaning no server or backend is required.
 
-PDF-to-Text: Support for multi-page PDF documents using PDF.js.
+---
 
-Client-Side Processing: No server-side uploads required; all processing happens in the user's browser.
+## Features
 
-Real-time Progress: Visual feedback and progress bars during the OCR process.
+### Image to Text
+Extract text from common image formats such as **JPG** and **PNG** directly in the browser.
 
-Offline Capability: Can be configured to run entirely offline using local worker scripts and trained data.
+### Client-Side Processing
+All OCR processing happens **inside the user's browser**.  
+No files are uploaded to a server, ensuring better **privacy and security**.
 
-**Technology Stack**
-Tesseract.js: A pure JavaScript port of the Tesseract OCR engine.
+### Real-Time Progress
+Displays **visual progress indicators and status messages** during the OCR process.
 
-PDF.js: A general-purpose, web standards-based platform for parsing and rendering PDFs.
+### Offline Capability
+The application can run **fully offline** by using local **Tesseract worker scripts and trained data files**.
 
-JavaScript (ES6+): Core logic and DOM manipulation.
+---
 
-HTML5/CSS3: Clean user interface and file upload handling.
+## Technology Stack
+
+- **Tesseract.js**  
+  A pure JavaScript port of the Tesseract OCR engine that performs text recognition directly in the browser.
+
+- **JavaScript (ES6+)**  
+  Handles OCR logic, file processing, and DOM manipulation.
+
+- **HTML5 / CSS3**  
+  Provides the user interface and file upload functionality.
