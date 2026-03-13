@@ -32,3 +32,7 @@ The application can run **fully offline** by using local **Tesseract worker scri
 
 - **HTML5 / CSS3**  
   Provides the user interface and file upload functionality.
+
+
+  https://y2asystem.com/storage/blog/ocr-tool-1024xauto.png<img width="1024" height="788" alt="image" src="https://github.com/user-attachments/assets/5c5d721f-e3f2-48cc-bfe0-c278f1be2921" />
+
